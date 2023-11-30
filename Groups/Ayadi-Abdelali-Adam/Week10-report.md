@@ -20,6 +20,6 @@
 
 ### Edem
 
--on a réussi à faire bouger le spaceship de Galaga à gauche et à droite avec limitation de son espace de mouvement avec l'élément wall.
+-on a réussi à faire bouger le spaceship de Galaga à gauche et à droite après la compréhension du mécanisme de mouvement du joueur de Sokoban avec limitation de son espace de mouvement avec l'élément wall.
 
 -on a ajouté des monstres au jeu.
