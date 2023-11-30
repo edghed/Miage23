@@ -17,6 +17,8 @@
         <img src="images/latif_screenshot.png" alt="screenshot of the first window of the game" width="auto" height="400" >
     </a>
 </center>
-## Edem
+
+### Edem
+
 -on a réussi à faire bouger le spaceship de Galaga à gauche et à droite avec limitation de son espace de mouvement avec l'élément wall.
 -on a ajouté des monstres au jeu.
